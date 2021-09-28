@@ -86,7 +86,7 @@ namespace QuoteBot
 				**{prefix}quote** or **{prefix}q** sends a random quote
 				**{prefix}ping** or **{prefix}latency** sends the current latency for the bot
 
-				Source code found here: **<LINK>**
+				Source code found here: **https://github.com/Stormageddon37/QuotesBot**
 				Current latency (ping): **{_client.Latency.ToString()} ms**.
 				");
 					break;
